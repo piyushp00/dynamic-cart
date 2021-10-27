@@ -1,0 +1,37 @@
+body {
+    padding: 0;
+    margin: 20;
+}
+
+#heading {
+    color: royalblue;
+    text-align: center;
+}
+
+#prod-type {
+    border-bottom: 2px solid black;
+}
+
+#product-ctn {
+    display: inline-block;
+    border: 2px solid royalblue;
+    padding: 10px;
+    margin: 10px;
+    height: 220px;
+    width: 220px;
+    border-radius: 2px;
+}
+
+.btn {
+    margin-top: 20px;
+    background-color: royalblue;
+    cursor: pointer;
+    height: 40px;
+    width: 150px;
+    color: white;
+
+}
+
+.prod-details {
+    font-size: 18px;
+}
